@@ -9,6 +9,7 @@ The dataset used in this project is **fictional** and represents sales data from
 - **Jupyter Notebook:** [`sales_analysis.ipynb`](sales_analysis.ipynb)  
 - **Power BI Dashboard:** [View Report](https://app.powerbi.com/view?r=eyJrIjoiMWI1NGE3OWYtNmQ3My00ZjQ5LTg4OWItZDVhZWNlODQ1Nzg4IiwidCI6ImNmNTFjNGM0LThkOTktNGYzYi1iZmE3LTQ3ZGEyOTk2YjIzZCIsImMiOjR9&pageName=21a9f4de9f9d8ac90456)
 - **Written Report:** [`written_report.pdf`](written_report.pdf)
+- **Presentation:** [`Sales Analysis presentation.pptx`](Sales Analysis presentation.pptx)
 
 ## 🔧 Tools & Technologies  
 - **Python** (Pandas, Numpy, Matplotlib, Seaborn)  
