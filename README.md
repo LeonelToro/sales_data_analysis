@@ -23,7 +23,7 @@ The dataset used in this project is **fictional** and represents sales data from
 - An increase in the number of **site visits** correlates with higher revenue across all sales methods, emphasizing the importance of driving more frequent visits to the site to boost overall revenue.
 
 ## 📊 Project Preview  
-![Dashboard Screenshot](dashboard_screenshot.png)  
+![Dashboard Screenshot](sales_dashboard_screenshot.png)  
 
 ---
 
@@ -52,4 +52,4 @@ El conjunto de datos utilizado en este proyecto es **ficticio** y representa los
 - Un aumento en la cantidad de **visitas al sitio** se correlaciona con mayores ingresos en todos los métodos de ventas, lo que resalta la importancia de impulsar visitas más frecuentes al sitio para aumentar los ingresos generales.
 
 ## 📊 Vista Previa del Proyecto  
-![Captura de Pantalla del Tablero](dashboard_screenshot.png)
+![Captura de Pantalla del Tablero](sales_dashboard_screenshot.png)
